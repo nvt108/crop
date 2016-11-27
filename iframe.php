@@ -1,0 +1,2 @@
+<!--<div id="background_iframe_preview" style="float:left;height: 100%; width: 100%;border:1px red solid;background-repeat: no-repeat;">nguyen van trung</div>-->
+<div id="image_iframe_preview" style="float:left;height: 50%; width: 50%;border:1px red solid;background-repeat: no-repeat;border-radius: 50%;">nguyen van trung</div>
